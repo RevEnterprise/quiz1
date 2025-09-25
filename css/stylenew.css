@@ -1,0 +1,60 @@
+.boxnew {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0 15px; 
+}
+
+.hometext {
+    font-size:24px; 
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+.btn-box {
+  background-color: rgb(68, 190, 231);
+  color: white;         
+  border: none; 
+}
+
+.btn-box {
+  background-color: rgb(68, 190, 231);
+  color: white;         
+  border: none; 
+}
+
+.imgbox-fluid {
+    max-width: 75%;
+    overflow: hidden;
+    height: auto;
+    justify-content: center; 
+    align-items: center;
+}
+
+.imgbox-education{
+    max-width: 30%;
+    overflow: hidden;
+    height: auto;
+    justify-content: center; 
+    align-items: center;
+}
+
+.container-box{
+    display: flex;         
+    justify-content: center;
+    align-items: center; 
+}
+
+.title-textnew {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.mainnew {
+    min-height: 80vh; 
+    padding-top:40px;
+    padding-left: 7.5%; 
+    padding-right: 7.5%;
+}
